@@ -25,30 +25,44 @@ backgroundColor: #284C5F
 
 ---
 
+# Serviette
+
+gefaltet
+
+![bg w:400px](./img/Serviette-Mockup.png)
+
+---
+
 <!-- _backgroundColor: #222 -->
 
 ![bg fit](./img/Menue%20Screenshot%202023-10-12%20113101.png)
 
 ---
 
-![bg fit](./img/Emoji-Set_Overview.png)
+Bierdeckel (abgerundete Ecken)
+
+![bg fit](./img/bierdeckel_modern_100x1002.png)
+![bg fit](./img/bierdeckel_modern_100x1003.png)
+![bg fit](./img/bierdeckel_modern_100x1004.png)
+![bg fit](./img/bierdeckel_modern_100x1005.png)
+
+---
+
+# Eigene Emojis
+
+![bg fit right](./img/Emoji-Set_Overview.png)
+
+---
+
+# Work in progress
+
+Die folgenden Seiten zeigen nur erste Entwürfe
 
 ---
 
 ![bg fit](./img/shirt-03.jpg)
 
 ![bg fit](./img/shirt-04.jpg)
-
----
-
-![bg w:400px](./img/Serviette-Mockup.png)
-
----
-
-![bg fit](./img/bierdeckel_modern_100x1002.png)
-![bg fit](./img/bierdeckel_modern_100x1003.png)
-![bg fit](./img/bierdeckel_modern_100x1004.png)
-![bg fit](./img/bierdeckel_modern_100x1005.png)
 
 ---
 
